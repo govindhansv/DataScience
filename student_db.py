@@ -29,7 +29,7 @@ def remove_a_student():
          print(" Removed ", student_databse)
 
 while True:
-    ch = input("Enter choice : ")
+    ch = input("Enter choice : 1.Create 2.Update 3.Display 4.exit")
     if ch == "1":
         add_student()
     elif ch == "2":

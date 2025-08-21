@@ -20,5 +20,3 @@ pop() (remove)
 items() (view all)
 in (search)
 len() (count)
-
-You only need to go there if you want to. if you can’t study then dont go at all.
